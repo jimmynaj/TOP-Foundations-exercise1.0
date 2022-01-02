@@ -1,0 +1,42 @@
+p{
+    background-color: pink;
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#number2
+{
+    background-color:transparent;
+    color:blue;
+    font-size: 36px;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+#note {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.notnormal {
+    background-color: black;
+    color: white;
+}
+
